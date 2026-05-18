@@ -10,10 +10,11 @@ https://github.com/Boktikazz/frontendVizsga
 https://github.com/Ballam906/feladat55
 https://github.com/SzedlakKrisztian/pizzagyakorlas
 https://github.com/Adeniran24/VG-Frontend
+https://github.com/sullaspqr
 Asztali
 https://github.com/k0csisrobert/sablonAszt
 https://github.com/SzedlakKrisztian/hegyekgyakorlas
-
+https://github.com/deakcsabakkszki
 Egybe Minden
 https://github.com/Bia262/vg-shi
 https://github.com/MakkaiK
