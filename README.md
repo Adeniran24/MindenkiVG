@@ -3,7 +3,7 @@ https://github.com/szjzsf/VG-BE
 https://github.com/Hegymegi-Akos
 https://github.com/SzedlakKrisztian/hegyekgyakorlas
 https://github.com/Adeniran24/VG-Backend
-
+https://github.com/FZoltan40
 Frontend
 https://github.com/k0csisrobert/sablonFE
 https://github.com/Boktikazz/frontendVizsga
