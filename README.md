@@ -1,5 +1,5 @@
 Backend
-github.com/szjzsf/VG-BE
+https://github.com/szjzsf/VG-BE
 
 
 Frontend
